@@ -24,7 +24,7 @@ function Profile() {
         </div>
         <div>
           <h1 className="profileName">Sarah Spencer</h1>
-          <h2 className="NMLS">Mortgage Broker (NMLS #2135830)</h2>
+          <h2 className="NMLS">Loan Officer (NMLS #2135830)</h2>
           <p className="profileP">
             Hello! I&apos;m Sarah, I look forward to helping you along your home
             buying experience. I&apos;ve provided a few useful links to get you
