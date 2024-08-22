@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03fe3e2a.css",
+    "main.js": "/static/js/main.98137856.js",
+    "static/js/592.1accde44.chunk.js": "/static/js/592.1accde44.chunk.js",
+    "static/media/getStartedBackground.png": "/static/media/getStartedBackground.894df7b0cdd2206da3a1.png",
+    "static/media/fcLogo.png": "/static/media/fcLogo.6c3d44f7948253432b0b.png",
+    "static/media/loan-education.svg": "/static/media/loan-education.fff298a4586c266bcd77edfa0e686aa0.svg",
+    "static/media/application.svg": "/static/media/application.d99af350757fffc7d5c3a96a6ffd9b9d.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.69ffdcb6aa8f39a5c4c4431ab49def8c.svg",
+    "static/media/upload-documents.svg": "/static/media/upload-documents.5c29d77bfcd797c7b27b843172912094.svg",
+    "static/media/review.svg": "/static/media/review.80f541df291f7b6a622e4b2e455fc981.svg",
+    "main.03fe3e2a.css.map": "/static/css/main.03fe3e2a.css.map",
+    "main.98137856.js.map": "/static/js/main.98137856.js.map",
+    "592.1accde44.chunk.js.map": "/static/js/592.1accde44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03fe3e2a.css",
+    "static/js/main.98137856.js"
+  ]
+}
